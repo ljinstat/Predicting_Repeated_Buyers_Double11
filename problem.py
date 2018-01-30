@@ -91,7 +91,6 @@ class businessmetric(ClassifierBaseScoreType):
 
 score_types = [   businessmetric(),
     rw.score_types.Accuracy(name='acc', precision=3),
-    rw.score_types.F1Above(name='f1_70', threshold=0.7),
     rw.score_types.NegativeLogLikelihood(name='nll', precision=3),
     rw.score_types.ROCAUC(name='roc_auc', precision=3)
     ]
