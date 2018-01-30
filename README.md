@@ -1,4 +1,4 @@
-# Prediction_Repeated_Buyers_Double11
+# Predicting_Repeated_Buyers_Double11
 
 Merchants sometimes run big promotions (e.g., discounts or cash coupons) on particular dates (e.g., Boxing-day Sales, "Black Friday" or "Double 11 (Nov 11th)”, in order to attract a large number of new buyers. Unfortunately, many of the attracted buyers are one-time deal hunters, and these promotions may have little long lasting impact on sales. What's more, Tmall.com as the creator of Chinese shopping carnival "Double 11 (Nov 11th)” is threatening by other e-commercial companies like Jingdong, Suning, which resluts in an increasingly high customer churn rate. As more and more customers involving in this shopping festival and more and more competitions appearing in the market, Tmall.com has to reinforce user loyalty to avoid customer loss. 
 
