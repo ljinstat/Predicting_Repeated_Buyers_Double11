@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+pandas
+keras
+jupyter
+matplotlib
+IPython.display
+datetime
+collections
